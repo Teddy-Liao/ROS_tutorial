@@ -1,0 +1,2 @@
+create_head_file
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 3/create_head_file/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 3/create_head_file/install -G Unix Makefiles

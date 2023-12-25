@@ -1,0 +1,8 @@
+prefix=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 1/hello_world_vscode_ws/devel
+
+Name: hello_world_vscode
+Description: Description of hello_world_vscode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

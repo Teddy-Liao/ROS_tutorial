@@ -1,0 +1,8 @@
+prefix=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 5/static_tf_ws/install
+
+Name: static_tf
+Description: Description of static_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

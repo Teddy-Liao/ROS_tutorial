@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libmy_head.so -o "/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 3/create_head_file/devel/lib/libmy_head.so" CMakeFiles/my_head.dir/src/my_head.cpp.o 

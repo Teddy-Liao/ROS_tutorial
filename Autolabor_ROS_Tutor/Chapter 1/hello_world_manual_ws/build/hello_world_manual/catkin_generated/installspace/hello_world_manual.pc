@@ -1,0 +1,8 @@
+prefix=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 1/hello_world_manual_ws/install
+
+Name: hello_world_manual
+Description: Description of hello_world_manual
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

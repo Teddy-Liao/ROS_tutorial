@@ -1,0 +1,2 @@
+pub_sub_pkg
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 2/pub_sub_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 2/pub_sub_ws/install -G Unix Makefiles

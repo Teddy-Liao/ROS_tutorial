@@ -1,0 +1,8 @@
+prefix=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 3/create_head_file/devel
+
+Name: create_head_file
+Description: Description of create_head_file
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
