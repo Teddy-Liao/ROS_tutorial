@@ -1,0 +1,2 @@
+dynamic_tf
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 5/dynamic_tf_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 5/dynamic_tf_ws/install -G Unix Makefiles

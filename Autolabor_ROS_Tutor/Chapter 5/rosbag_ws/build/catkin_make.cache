@@ -1,0 +1,2 @@
+rosbag_demo
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 5/rosbag_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 5/rosbag_ws/install -G Unix Makefiles
