@@ -1,0 +1,2 @@
+urdf_rviz
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 6/urdf_rviz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Autolabor_ROS_Tutor/Chapter 6/urdf_rviz_ws/install -G Unix Makefiles

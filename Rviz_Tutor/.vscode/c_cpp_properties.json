@@ -1,0 +1,30 @@
+{
+    // 这个配置文件是为了实现代码补全和include ROS系统的头文件
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                //"/mnt/home/ubuntu/Code_test",
+                "/usr/local/",
+                "/usr/include/",
+                "/opt/ros/noetic/include/"
+                //"/opt/ros/melodic/include/ros/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            // "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-arm64",
+            "browse": {
+                "path": [
+                    "/usr/local/*",
+                    "/usr/include/*",
+                    "/opt/ros/noetic/include/*",
+                    "/opt/ros/noetic/include/ros/*"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

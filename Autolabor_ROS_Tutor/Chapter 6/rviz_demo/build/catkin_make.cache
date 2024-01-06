@@ -1,0 +1,2 @@
+urdf_gazebo_demo:urdf_rviz_demo
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/rviz_demo/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/rviz_demo/install -G Unix Makefiles

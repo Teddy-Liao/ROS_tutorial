@@ -1,0 +1,2 @@
+using_markers
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Projects/ROS_tutorial/Rviz_Tutor/using_markers_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Projects/ROS_tutorial/Rviz_Tutor/using_markers_ws/install -G Unix Makefiles
